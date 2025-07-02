@@ -82,7 +82,9 @@ Visualization using Bokeh + Panel
   ┌─────────────┼──────────────────────────────┐
   
   
-**Model1** (Linear)       **Model2**(Demand-Based)     **Model3**(Cluster-Based)
+**Model1** (Linear)      
+**Model2**(Demand-Based)    
+**Model3**(Cluster-Based)
                   
 
   
